@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbitops.a CMakeFiles/bitops.dir/bitops.c.o
+/usr/bin/ranlib libbitops.a

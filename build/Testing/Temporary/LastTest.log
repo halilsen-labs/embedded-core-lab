@@ -1,0 +1,19 @@
+Start testing: Apr 27 17:39 CEST
+----------------------------------------------------------
+1/1 Testing: bitops_test
+1/1 Test: bitops_test
+Command: "/home/freed/workspace/embedded-core-lab/build/tests/test_bitops"
+Directory: /home/freed/workspace/embedded-core-lab/build/tests
+"bitops_test" start time: Apr 27 17:39 CEST
+Output:
+----------------------------------------------------------
+ALL TESTS PASSED
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bitops_test" end time: Apr 27 17:39 CEST
+"bitops_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 27 17:39 CEST

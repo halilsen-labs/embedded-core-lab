@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_bitops.dir/test_bitops.c.o -o test_bitops  ../src/libbitops.a 

@@ -1,0 +1,11 @@
+/home/freed/workspace/embedded-core-lab/build/CMakeFiles/test.dir
+/home/freed/workspace/embedded-core-lab/build/CMakeFiles/edit_cache.dir
+/home/freed/workspace/embedded-core-lab/build/CMakeFiles/rebuild_cache.dir
+/home/freed/workspace/embedded-core-lab/build/src/CMakeFiles/bitops.dir
+/home/freed/workspace/embedded-core-lab/build/src/CMakeFiles/test.dir
+/home/freed/workspace/embedded-core-lab/build/src/CMakeFiles/edit_cache.dir
+/home/freed/workspace/embedded-core-lab/build/src/CMakeFiles/rebuild_cache.dir
+/home/freed/workspace/embedded-core-lab/build/tests/CMakeFiles/test_bitops.dir
+/home/freed/workspace/embedded-core-lab/build/tests/CMakeFiles/test.dir
+/home/freed/workspace/embedded-core-lab/build/tests/CMakeFiles/edit_cache.dir
+/home/freed/workspace/embedded-core-lab/build/tests/CMakeFiles/rebuild_cache.dir
